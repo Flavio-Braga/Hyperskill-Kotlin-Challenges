@@ -7,7 +7,7 @@ The challenges are about some already learned previous topic.
 
 ## 📋 Challenge's List 
 
-| #  | Challenge                                                                                           | Language | Topic                           |
-|----|-----------------------------------------------------------------------------------------------------|----------|---------------------------------|
-| 01 | [Map of Buttons](https://github.com/Flavio-Braga/Hyperskill-Kotlin-Challenges/tree/main/Desafio-01) | Kotlin   | Scope functions: apply and also |
-| 02 |                                                                                                     | Kotlin   | Medium                          |
+| #  | Challenge                                                                                                  | Language | Topic                           |
+|----|------------------------------------------------------------------------------------------------------------|----------|---------------------------------|
+| 01 | [Map of Buttons](https://github.com/Flavio-Braga/Hyperskill-Kotlin-Challenges/tree/main/Map-of-Buttons.md) | Kotlin   | Scope functions: apply and also |
+| 02 |                                                                                                            | Kotlin   | Medium                          |
