@@ -10,7 +10,7 @@ The challenges are about some already learned previous topic.
 | #  | Challenge                                                                                                  | Language | Topic                           |
 |----|------------------------------------------------------------------------------------------------------------|----------|---------------------------------|
 | 01 | [Map of Buttons](https://github.com/Flavio-Braga/Hyperskill-Kotlin-Challenges/tree/main/Map-of-Buttons.md) | Kotlin   | Scope functions: apply and also |
-| 02 |                                                                                                            | Kotlin   | Medium                          |
+| 02 | [Bizarre Things](https://github.com/Flavio-Braga/Hyperskill-Kotlin-Challenges/tree/main/Bizarre-Things.md) | Kotlin   | Iterators repetition            |
 
 
 ## 💡 Key Learnings
@@ -28,7 +28,7 @@ Feel free to explore the solutions! If you have suggestions for improvements or 
 ## 📬 Connect
 
 - **LinkedIn:** [Flavio Braga](https://www.linkedin.com/in/flaviobragadesousa/)
-- **GitHub:** [@Flavio-Braga](https://github.com/Flavio-Braga)
+- **GitHub:** [Flavio-Braga](https://github.com/Flavio-Braga)
 
 ---
 

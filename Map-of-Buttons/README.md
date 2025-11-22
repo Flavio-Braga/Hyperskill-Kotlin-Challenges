@@ -1,31 +1,24 @@
-# Bizzare things
+# Map of Buttons
 
-You are trying to encrypt two words by creating their combination, letter by letter. When you run out of characters in the first string, add the remaining letters from the second one. If you run out of characters in the second word, then fill the result string by the remaining characters from the first word.
+You have a `map` with the names of
+buttons and corresponding font sizes and also a data class with default
+parameters. Write the body of the `apply` function so that
+your code could receive the name of a button from standard
+input, assign this value to the parameter `text`, and assign
+the corresponding value from `map` to the parameter
+`textSize`. After that, your code should print the new
+parameters to standard output like in the example. It's
+guaranteed that the input string will be contained in the map
+as `key`.
 
-You need to read two strings from input and combine them with an iterator. Print the resulting string.
-
-## Sample Input 1:
-
-```
-cat
-dog
-```
-
-## Sample Output 1:
-
-```
-cdaotg
-```
-
-## Sample Input 2:
+### Sample Input 1:
 
 ```
-cat
-hyperskill
+Button
 ```
 
-## Sample Output 2:
+### Sample Output 1:
 
 ```
-chaytperskill
+New settings: TextField(text=Button, textSize=14, fontFamily=Roboto)
 ```
