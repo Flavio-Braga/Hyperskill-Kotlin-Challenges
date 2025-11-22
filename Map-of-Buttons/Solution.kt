@@ -1,37 +1,19 @@
-data class TextField(
-    var text: String = "Hello!",
-    var textSize: Int = 12,
-    var fontFamily: String = "Roboto"
-)
-
 fun main() {
-    val textField = TextField()
 
-    val valuesMap = mapOf<String, Int>(
-        "Cancel" to 12,
-        "Button" to 14,
-        "Submit" to 13
-    )
+    val iterator1 = readln().iterator()
+    val iterator2 = readln().iterator()
 
-    textField
-        .apply {
-            // Write your code here
+    while (iterator1.hasNext()) {
 
-            when (val input = readln()) {
-                "Button" -> {
-                    text = input
-                    textSize = valuesMap[input]!!
-                }
-                "Cancel" -> {
-                    text = input
-                    textSize = valuesMap[input]!!
-                }
-                "Submit" -> {
-                    text = input
-                    textSize = valuesMap[input]!!
-                }
-            }
+        print(iterator1.next())
 
+        if (iterator2.hasNext()) {
+            print(iterator2.next())
         }
-        .also { println("New settings: $it") }
+    }
+
+    while (iterator2.hasNext()) {
+        print(iterator2.next())
+    }
+
 }
