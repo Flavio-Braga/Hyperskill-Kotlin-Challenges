@@ -26,4 +26,6 @@ hyperskill
 
 ## Sample Output 2:
 
-`chaytperskill`
+```
+chaytperskill
+```
