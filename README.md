@@ -18,6 +18,7 @@ The challenges are about some already learned previous topic.
 As I progress through these challenges, I'm building proficiency in:
 - Writing idiomatic Kotlin code
 - Applying functional programming paradigms
+- Developing Object-Oriented solutions  
 - Problem-solving with efficient algorithms
 - Understanding Kotlin's standard library
 
