@@ -7,11 +7,12 @@ The challenges are about some already learned previous topic.
 
 ## 📋 Challenge's List
 
-| #  | Challenge                                                                                                  | Language | Topic           |
-|----|------------------------------------------------------------------------------------------------------------|----------|-----------------|
-| 01 | [Map of Buttons](https://github.com/Flavio-Braga/Hyperskill-Kotlin-Challenges/tree/main/Map-of-Buttons.md) | Kotlin   | Scope functions |
-| 02 | [Bizarre Things](https://github.com/Flavio-Braga/Hyperskill-Kotlin-Challenges/tree/main/Bizarre-Things.md) | Kotlin   | Iterators       |
-| 03 | [Songs to Print](https://github.com/Flavio-Braga/Hyperskill-Kotlin-Challenges/tree/main/Songs-To-Print.md) | Kotlin   | Scope functions |    
+| #  | Challenge                                                                                                        | Language | Topic           |
+|----|------------------------------------------------------------------------------------------------------------------|----------|-----------------|
+| 01 | [Map of Buttons](https://github.com/Flavio-Braga/Hyperskill-Kotlin-Challenges/tree/main/Map-of-Buttons.md)       | Kotlin   | Scope functions |
+| 02 | [Bizarre Things](https://github.com/Flavio-Braga/Hyperskill-Kotlin-Challenges/tree/main/Bizarre-Things.md)       | Kotlin   | Iterators       |
+| 03 | [Songs to Print](https://github.com/Flavio-Braga/Hyperskill-Kotlin-Challenges/tree/main/Songs-To-Print.md)       | Kotlin   | Scope functions |    
+| 03 | [Sum of all Digits](https://github.com/Flavio-Braga/Hyperskill-Kotlin-Challenges/tree/main/Sum-of-all-Digits.md) | Kotlin   | Recursion       |    
 
 
 ## 💡 Key Learnings
